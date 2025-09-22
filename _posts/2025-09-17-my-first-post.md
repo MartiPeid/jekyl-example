@@ -15,4 +15,4 @@ Visiting *My World* is like stepping into another reality. Whether you’re here
 
 Each spot is a reminder that *My World* is full of magic waiting to be discovered.  
 
-![My World Tourism](../assets/images/firstp.jpg)
+![My World Tourism](/assets/images/firstp.jpg)
