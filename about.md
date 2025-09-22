@@ -1,7 +1,11 @@
 ---
-Title: About 
-Layout: single 
+title: About 
+layout: single 
 url: /about
+excerpt: "" 
+header: 
+    overlay_image: /assets/images/about.png
+    overlay_filter: rgba(79,99,82,0.5)
 ---
 
 This website was created to promote tourism in *My World*.  
