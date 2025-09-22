@@ -2,6 +2,10 @@
 layout: single
 title: My First Post
 author_profile: true
+excerpt: ""
+header:
+  overlay_image: /assets/images/firstp.jpg
+  overlay_filter: 0.3
 ---
 
 # Top 5 Places You Must Visit in My World
@@ -14,5 +18,3 @@ Visiting *My World* is like stepping into another reality. Whether you’re here
 5. 🌺 **The Floating Gardens** — fields of flowers suspended in the air.  
 
 Each spot is a reminder that *My World* is full of magic waiting to be discovered.  
-
-![My World Tourism](/assets/images/firstp.jpg)
