@@ -1,5 +1,6 @@
 ---
 Title: Dining
+Layout: Single 
 url: /dining
 excerpt: "Unlimited food, if you whant something to eat My World will have it" 
 header:
