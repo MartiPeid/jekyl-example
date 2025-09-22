@@ -2,6 +2,9 @@
 Title: Activities
 Layout: Single 
 url: /activities
+header:
+  overlay_image: /assets/images/adventure.jpg
+  overlay_filter: 0.3
 ---
 
 # Activities in My World 
