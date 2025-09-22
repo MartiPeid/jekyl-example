@@ -2,6 +2,7 @@
 Title: Activities
 Layout: Single 
 url: /activities
+excerpt: In *My World* you will be able to try all the activities that you can imagine
 header:
   overlay_image: /assets/images/adventure.jpg
   overlay_filter: 0.3

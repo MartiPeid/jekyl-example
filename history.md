@@ -2,6 +2,7 @@
 Title: History
 Layout: Single 
 url: /history
+excerpt: My World history will let you fascinated
 header:
   overlay_image: /assets/images/History.jpg
   overlay_filter: 0.3
