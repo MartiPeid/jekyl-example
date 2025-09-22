@@ -1,5 +1,5 @@
 ---
-title: About 
+title: About My World 
 layout: single 
 url: /about
 excerpt: "" 
