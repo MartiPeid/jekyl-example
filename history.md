@@ -2,6 +2,8 @@
 Title: History
 Layout: Single 
 url: /history
+header:
+  overlay_image: /assets/images/History.jpg
 ---
 
 # The fascinating History of My World 
