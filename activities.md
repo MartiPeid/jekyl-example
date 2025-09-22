@@ -1,6 +1,6 @@
 ---
-Title: Activities
-Layout: Single 
+title: Activities
+layout: single 
 url: /activities
 excerpt: In *My World* you will be able to try all the activities that you can imagine
 header:
