@@ -2,7 +2,7 @@
 layout: single
 title: My First Post
 author_profile: true
-excerpt: ""
+excerpt: "blla bla bla "
 header:
   overlay_image: /assets/images/firstp.jpg
   overlay_filter: 0.3
