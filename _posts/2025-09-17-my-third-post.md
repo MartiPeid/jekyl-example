@@ -2,6 +2,11 @@
 layout: single
 title: My Third Time in My World
 author_profile: true
+excerpt: "Facinated by the food that My World has"
+header:
+  overlay_image: /assets/images/eating.jpg
+  overlay_filter: 0.3
+---
 ---
 
 Food in *My World* is unlike anywhere else in the universe. Thanks to the land’s magic, visitors can enjoy flavors that surprise and delight:  

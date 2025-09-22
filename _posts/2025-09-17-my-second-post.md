@@ -2,6 +2,10 @@
 layout: single
 title: My Second Time in My World
 author_profile: true
+excerpt: "More and More, THIS WORLD IS AMAZING "
+header:
+  overlay_image: /assets/images/festival.jpg
+  overlay_filter: 0.3
 ---
 
 Few places celebrate life the way *My World* does. Throughout the year, the land comes alive with festivals that enchant visitors:  
