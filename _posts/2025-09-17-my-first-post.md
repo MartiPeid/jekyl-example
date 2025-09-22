@@ -1,7 +1,7 @@
 ---
 layout: Single
 title: My First Post
-Author_profile: ture
+Author_profile: true
 ---
 
 This is my first post!
