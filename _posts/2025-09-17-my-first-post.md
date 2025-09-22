@@ -1,6 +1,6 @@
 ---
 layout: single
-title: My First Post
+title: My First Time in My World
 author_profile: true
 excerpt: "Surprised by the things that My World has to offer "
 header:

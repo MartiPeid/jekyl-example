@@ -1,6 +1,6 @@
 ---
 layout: single
-title: My Third Post
+title: My Third Time in My World
 author_profile: true
 ---
 
