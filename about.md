@@ -2,7 +2,7 @@
 title: About My World 
 layout: single 
 url: /about
-excerpt: "" 
+excerpt: "About My World" 
 header: 
     overlay_image: /assets/images/about.png
     overlay_filter: rgba(79,99,82,0.5)
