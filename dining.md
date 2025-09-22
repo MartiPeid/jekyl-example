@@ -2,7 +2,7 @@
 Title: Dining
 Layout: Single 
 url: /dining
-excerpt: Unlimited food, if you whant something to eat My World will have it 
+excerpt: "Unlimited food, if you whant something to eat My World will have it" 
 header:
     overlay_image: /assets/images/food.jpg
     overlay_filter: rgba(79,99,82,0.5)
