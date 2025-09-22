@@ -5,7 +5,7 @@ url: /history
 excerpt: "My World history will let you fascinated"
 header:
   overlay_image: /assets/images/history.jpg
-  overlay_filter: 0.5
+  overlay_filter: rgba(79,99,82,0.5)
 ---
 
 # The fascinating History of My World 
