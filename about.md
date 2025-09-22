@@ -1,6 +1,6 @@
 ---
 Title: About 
-Layout: Single 
+Layout: single 
 url: /about
 ---
 
