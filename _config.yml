@@ -3,6 +3,9 @@ author :
   name : Marti
   email : mpeid24@stlawu.edu
   github : MartiPeid
+  avatar: "/assets/images/main.jpg"
+  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  location: "Martilandia"
 
 url: "https://martipeid.github.io" # the base hostname & protocol for your site
 baseurl: "/jekyl-example/"

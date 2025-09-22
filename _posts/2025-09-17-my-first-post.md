@@ -2,7 +2,7 @@
 layout: single
 title: My First Post
 author_profile: true
-excerpt: "blla bla bla "
+excerpt: "Surprised by the things that My World has to offer "
 header:
   overlay_image: /assets/images/firstp.jpg
   overlay_filter: 0.3
