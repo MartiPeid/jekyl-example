@@ -4,6 +4,7 @@ Layout: Single
 url: /history
 header:
   overlay_image: /assets/images/History.jpg
+  overlay_filter: 0.3
 ---
 
 # The fascinating History of My World 
