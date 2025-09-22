@@ -4,22 +4,14 @@ author :
   email : mpeid24@stlawu.edu
   github : MartiPeid
   avatar: "/assets/images/main.jpg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
-  location: "Martilandia"
+  bio: "I am just an **amazing** person enjoying what My World has to offer" # Note: Markdown is allowed
+  location: "My World City"
 
 url: "https://martipeid.github.io" # the base hostname & protocol for your site
 baseurl: "/jekyl-example/"
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
 minimal_mistakes_skin: sunrise
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      author_profile: true
 
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
