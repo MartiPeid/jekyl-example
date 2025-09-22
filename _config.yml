@@ -7,11 +7,19 @@ author :
   bio: "I am just an **amazing** person enjoying what My World has to offer" # Note: Markdown is allowed
   location: "My World City"
 
+
 url: "https://martipeid.github.io" # the base hostname & protocol for your site
 baseurl: "/jekyl-example/"
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
 minimal_mistakes_skin: sunrise
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
 
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
