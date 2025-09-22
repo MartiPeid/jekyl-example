@@ -2,7 +2,7 @@
 title: History
 layout: single 
 url: /history
-excerpt: My World history will let you fascinated
+excerpt: "My World history will let you fascinated"
 header:
     overlay_image: /assets/images/history.jpg
     overlay_filter: rgba(79,99,82,0.5)
